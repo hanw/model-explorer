@@ -1,0 +1,3 @@
+[submodule "pytorch/diffusers"]
+	path = pytorch/diffusers
+	url = https://github.com/huggingface/diffusers
